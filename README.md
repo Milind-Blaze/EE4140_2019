@@ -6,8 +6,9 @@ This repository contains the work done as a part of the course EE4140, Digital C
 
 - __simulation1__: directory containing code for the simulation of AWGN channel for BPSK
 - __simulation2__: directory containing code for the simulation of AWGN channel for M-QAM
+- __simulation3__: directory containing code for the simulation of a bit to bit OFDM system 
 - __```tools.py```__: module containing utility functions for the simulations
 
 ## Useful material
 
--
+- 
